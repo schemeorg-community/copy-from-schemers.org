@@ -1,0 +1,24 @@
+Merced Systems is looking for senior level developers who are familiar
+with Scheme and are excited to be developing with Scheme in a product
+development environment.  
+
+We are looking for developers who can join Merced's development team
+in designing and building our expanding product line.
+
+This is a classic software development position within a product
+company.  As such, the main skill desired is the ability to solve
+extremely complex problems in a short amount of time in a way that is
+harmonious with our overarching design and strategy.  You must be very
+creative and very hard working with an excellent design sense.  We are
+also looking for an individual with a phenomenal implementation
+ability.
+
+We are located in beautiful Redwood Shores, CA just south of San
+Francisco.
+
+Please send your resume to tech-jobs@mercedsystems.com with only "Lead
+Developer Application" in the title of the email.  Please send your
+resume in one of the following formats: Plain ASCII, PDF, or HTML
+only.  Thank you.
+
+See http://www.mercedsystems.com/careers.html for more details.

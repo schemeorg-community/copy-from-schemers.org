@@ -1,0 +1,19 @@
+We're looking for an experienced Scheme programmer at Darmouth
+College's Interactive Media Lab, in Lebanon, New Hampshire:
+
+  http://iml.dartmouth.edu/
+
+We're working on two related projects right now: Training software for
+first responders, and our underlying multimedia engine, Tamale:
+
+  http://iml.dartmouth.edu/tamale/
+
+We need somebody to help out on both projects.  Desirable skills
+include:
+
+  * Scheme or LISP
+  * C++
+  * Multimedia development
+  * User interface design
+
+Contact eric DOT kidd AT dartmouth DOT edu for more information.

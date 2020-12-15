@@ -1,0 +1,1491 @@
+Compilation started at Wed Dec 16 01:07:50
+
+wget --mirror https://schemers.org
+--2020-12-16 01:07:51--  https://schemers.org/
+Resolving schemers.org (schemers.org)... 128.148.32.110
+Connecting to schemers.org (schemers.org)|128.148.32.110|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘schemers.org/index.html’
+
+schemers.org/index.ht     [ <=>                    ]   5.50K  --.-KB/s    in 0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2020-12-16 01:07:55 (5.52 MB/s) - ‘schemers.org/index.html’ saved [5629]
+
+Loading robots.txt; please ignore errors.
+--2020-12-16 01:07:55--  https://schemers.org/robots.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 0 [text/plain]
+Saving to: ‘schemers.org/robots.txt’
+
+schemers.org/robots.t     [ <=>                    ]       0  --.-KB/s    in 0s
+
+2020-12-16 01:07:55 (0.00 B/s) - ‘schemers.org/robots.txt’ saved [0/0]
+
+--2020-12-16 01:07:55--  https://schemers.org/favicon.ico
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 894 [image/vnd.microsoft.icon]
+Saving to: ‘schemers.org/favicon.ico’
+
+schemers.org/favicon. 100%[=======================>]     894  --.-KB/s    in 0s
+
+2020-12-16 01:07:56 (14.7 MB/s) - ‘schemers.org/favicon.ico’ saved [894/894]
+
+--2020-12-16 01:07:56--  https://schemers.org/logo-dsandler.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1683 (1.6K) [image/gif]
+Saving to: ‘schemers.org/logo-dsandler.gif’
+
+schemers.org/logo-dsa 100%[=======================>]   1.64K  --.-KB/s    in 0s
+
+2020-12-16 01:07:56 (39.1 MB/s) - ‘schemers.org/logo-dsandler.gif’ saved [1683/1683]
+
+--2020-12-16 01:07:56--  https://schemers.org/welcome.shtml
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘schemers.org/welcome.shtml’
+
+schemers.org/welcome.     [ <=>                    ]   2.17K  --.-KB/s    in 0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2020-12-16 01:07:56 (3.97 MB/s) - ‘schemers.org/welcome.shtml’ saved [2225]
+
+--2020-12-16 01:07:56--  https://schemers.org/Documents/
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘schemers.org/Documents/index.html’
+
+schemers.org/Document     [ <=>                    ]  11.16K  --.-KB/s    in 0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2020-12-16 01:07:56 (19.8 MB/s) - ‘schemers.org/Documents/index.html’ saved [11426]
+
+--2020-12-16 01:07:56--  https://schemers.org/Documents/Standards/
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘schemers.org/Documents/Standards/index.html’
+
+schemers.org/Document     [ <=>                    ]   2.23K  --.-KB/s    in 0s
+
+Last-modified header missing -- time-stamps turned off.
+2020-12-16 01:07:56 (4.79 MB/s) - ‘schemers.org/Documents/Standards/index.html’ saved [2286]
+
+--2020-12-16 01:07:56--  https://schemers.org/Tutorials/
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘schemers.org/Tutorials/index.html’
+
+schemers.org/Tutorial     [ <=>                    ]   1.26K  --.-KB/s    in 0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2020-12-16 01:07:56 (1.66 MB/s) - ‘schemers.org/Tutorials/index.html’ saved [1294]
+
+--2020-12-16 01:07:56--  https://schemers.org/Education/
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘schemers.org/Education/index.html’
+
+schemers.org/Educatio     [ <=>                    ]   2.49K  --.-KB/s    in 0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2020-12-16 01:07:56 (3.89 MB/s) - ‘schemers.org/Education/index.html’ saved [2551]
+
+--2020-12-16 01:07:56--  https://schemers.org/Implementations/
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘schemers.org/Implementations/index.html’
+
+schemers.org/Implemen     [ <=>                    ]   2.35K  --.-KB/s    in 0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2020-12-16 01:07:56 (3.89 MB/s) - ‘schemers.org/Implementations/index.html’ saved [2407]
+
+--2020-12-16 01:07:56--  https://schemers.org/Positions/
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘schemers.org/Positions/index.html’
+
+schemers.org/Position     [ <=>                    ]   2.55K  --.-KB/s    in 0.001s
+
+2020-12-16 01:07:57 (3.76 MB/s) - ‘schemers.org/Positions/index.html’ saved [2615]
+
+--2020-12-16 01:07:57--  https://schemers.org/Events/
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘schemers.org/Events/index.html’
+
+schemers.org/Events/i     [ <=>                    ]   3.78K  --.-KB/s    in 0s
+
+Last-modified header missing -- time-stamps turned off.
+2020-12-16 01:07:57 (8.10 MB/s) - ‘schemers.org/Events/index.html’ saved [3875]
+
+--2020-12-16 01:07:57--  https://schemers.org/Miscellaneous/
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘schemers.org/Miscellaneous/index.html’
+
+schemers.org/Miscella     [ <=>                    ]   2.14K  --.-KB/s    in 0s
+
+Last-modified header missing -- time-stamps turned off.
+2020-12-16 01:07:57 (4.82 MB/s) - ‘schemers.org/Miscellaneous/index.html’ saved [2189]
+
+--2020-12-16 01:07:57--  https://schemers.org/Wares/
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘schemers.org/Wares/index.html’
+
+schemers.org/Wares/in     [ <=>                    ]   1.25K  --.-KB/s    in 0s
+
+Last-modified header missing -- time-stamps turned off.
+2020-12-16 01:07:57 (3.28 MB/s) - ‘schemers.org/Wares/index.html’ saved [1279]
+
+--2020-12-16 01:07:57--  https://schemers.org/Other/
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘schemers.org/Other/index.html’
+
+schemers.org/Other/in     [ <=>                    ]   1.83K  --.-KB/s    in 0s
+
+Last-modified header missing -- time-stamps turned off.
+2020-12-16 01:07:57 (3.79 MB/s) - ‘schemers.org/Other/index.html’ saved [1878]
+
+--2020-12-16 01:07:57--  https://schemers.org/Documents/Standards/Charter/
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘schemers.org/Documents/Standards/Charter/index.html’
+
+schemers.org/Document     [ <=>                    ]   3.40K  --.-KB/s    in 0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2020-12-16 01:07:57 (4.09 MB/s) - ‘schemers.org/Documents/Standards/Charter/index.html’ saved [3477]
+
+--2020-12-16 01:07:57--  https://schemers.org/Documents/Standards/R5RS/
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/index.html’
+
+schemers.org/Document     [ <=>                    ]   2.40K  --.-KB/s    in 0.001s
+
+Last-modified header missing -- time-stamps turned off.
+2020-12-16 01:07:57 (3.95 MB/s) - ‘schemers.org/Documents/Standards/R5RS/index.html’ saved [2458]
+
+--2020-12-16 01:07:57--  https://schemers.org/Positions/hamilton-2010-04-29.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1202 (1.2K) [text/plain]
+Saving to: ‘schemers.org/Positions/hamilton-2010-04-29.txt’
+
+schemers.org/Position 100%[=======================>]   1.17K  --.-KB/s    in 0s
+
+2020-12-16 01:07:57 (22.5 MB/s) - ‘schemers.org/Positions/hamilton-2010-04-29.txt’ saved [1202/1202]
+
+--2020-12-16 01:07:57--  https://schemers.org/Positions/oxford-2008-04-03.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 714 [text/plain]
+Saving to: ‘schemers.org/Positions/oxford-2008-04-03.txt’
+
+schemers.org/Position 100%[=======================>]     714  --.-KB/s    in 0s
+
+2020-12-16 01:07:58 (29.6 MB/s) - ‘schemers.org/Positions/oxford-2008-04-03.txt’ saved [714/714]
+
+--2020-12-16 01:07:58--  https://schemers.org/Positions/streamtech-2008-09-11.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1810 (1.8K) [text/plain]
+Saving to: ‘schemers.org/Positions/streamtech-2008-09-11.txt’
+
+schemers.org/Position 100%[=======================>]   1.77K  --.-KB/s    in 0s
+
+2020-12-16 01:07:58 (42.1 MB/s) - ‘schemers.org/Positions/streamtech-2008-09-11.txt’ saved [1810/1810]
+
+--2020-12-16 01:07:58--  https://schemers.org/Positions/readytalk-2007-01-20.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1403 (1.4K) [text/plain]
+Saving to: ‘schemers.org/Positions/readytalk-2007-01-20.txt’
+
+schemers.org/Position 100%[=======================>]   1.37K  --.-KB/s    in 0s
+
+2020-12-16 01:07:58 (41.8 MB/s) - ‘schemers.org/Positions/readytalk-2007-01-20.txt’ saved [1403/1403]
+
+--2020-12-16 01:07:58--  https://schemers.org/Positions/getdemocracy-2006-12-15.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 962 [text/plain]
+Saving to: ‘schemers.org/Positions/getdemocracy-2006-12-15.txt’
+
+schemers.org/Position 100%[=======================>]     962  --.-KB/s    in 0s
+
+2020-12-16 01:07:58 (4.61 MB/s) - ‘schemers.org/Positions/getdemocracy-2006-12-15.txt’ saved [962/962]
+
+--2020-12-16 01:07:58--  https://schemers.org/Positions/intranexus-2005-10-03.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1595 (1.6K) [text/plain]
+Saving to: ‘schemers.org/Positions/intranexus-2005-10-03.txt’
+
+schemers.org/Position 100%[=======================>]   1.56K  --.-KB/s    in 0s
+
+2020-12-16 01:07:58 (17.9 MB/s) - ‘schemers.org/Positions/intranexus-2005-10-03.txt’ saved [1595/1595]
+
+--2020-12-16 01:07:58--  https://schemers.org/Positions/mak-2005-03-30.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1957 (1.9K) [text/plain]
+Saving to: ‘schemers.org/Positions/mak-2005-03-30.txt’
+
+schemers.org/Position 100%[=======================>]   1.91K  --.-KB/s    in 0s
+
+2020-12-16 01:07:59 (44.4 MB/s) - ‘schemers.org/Positions/mak-2005-03-30.txt’ saved [1957/1957]
+
+--2020-12-16 01:07:59--  https://schemers.org/Positions/infineon-2005-02-07.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1335 (1.3K) [text/plain]
+Saving to: ‘schemers.org/Positions/infineon-2005-02-07.txt’
+
+schemers.org/Position 100%[=======================>]   1.30K  --.-KB/s    in 0s
+
+2020-12-16 01:07:59 (28.9 MB/s) - ‘schemers.org/Positions/infineon-2005-02-07.txt’ saved [1335/1335]
+
+--2020-12-16 01:07:59--  https://schemers.org/Positions/dartmouth-2004-09-08.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 546 [text/plain]
+Saving to: ‘schemers.org/Positions/dartmouth-2004-09-08.txt’
+
+schemers.org/Position 100%[=======================>]     546  --.-KB/s    in 0s
+
+2020-12-16 01:07:59 (11.1 MB/s) - ‘schemers.org/Positions/dartmouth-2004-09-08.txt’ saved [546/546]
+
+--2020-12-16 01:07:59--  https://schemers.org/Positions/isgroup-2004-06-08.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 345 [text/plain]
+Saving to: ‘schemers.org/Positions/isgroup-2004-06-08.txt’
+
+schemers.org/Position 100%[=======================>]     345  --.-KB/s    in 0s
+
+2020-12-16 01:07:59 (5.88 MB/s) - ‘schemers.org/Positions/isgroup-2004-06-08.txt’ saved [345/345]
+
+--2020-12-16 01:07:59--  https://schemers.org/Positions/merced-systems-2004-05-13.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1075 (1.0K) [text/plain]
+Saving to: ‘schemers.org/Positions/merced-systems-2004-05-13.txt’
+
+schemers.org/Position 100%[=======================>]   1.05K  --.-KB/s    in 0s
+
+2020-12-16 01:07:59 (19.7 MB/s) - ‘schemers.org/Positions/merced-systems-2004-05-13.txt’ saved [1075/1075]
+
+--2020-12-16 01:07:59--  https://schemers.org/Positions/content-integrity-2000-6-23.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5028 (4.9K) [text/plain]
+Saving to: ‘schemers.org/Positions/content-integrity-2000-6-23.txt’
+
+schemers.org/Position 100%[=======================>]   4.91K  --.-KB/s    in 0s
+
+2020-12-16 01:07:59 (13.6 MB/s) - ‘schemers.org/Positions/content-integrity-2000-6-23.txt’ saved [5028/5028]
+
+--2020-12-16 01:07:59--  https://schemers.org/Positions/lshift-2002-10-16.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1424 (1.4K) [text/plain]
+Saving to: ‘schemers.org/Positions/lshift-2002-10-16.txt’
+
+schemers.org/Position 100%[=======================>]   1.39K  --.-KB/s    in 0s
+
+2020-12-16 01:07:59 (14.6 MB/s) - ‘schemers.org/Positions/lshift-2002-10-16.txt’ saved [1424/1424]
+
+--2020-12-16 01:07:59--  https://schemers.org/Positions/memetrics-2000-11-16.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1858 (1.8K) [text/plain]
+Saving to: ‘schemers.org/Positions/memetrics-2000-11-16.txt’
+
+schemers.org/Position 100%[=======================>]   1.81K  --.-KB/s    in 0s
+
+2020-12-16 01:08:00 (28.1 MB/s) - ‘schemers.org/Positions/memetrics-2000-11-16.txt’ saved [1858/1858]
+
+--2020-12-16 01:08:00--  https://schemers.org/Positions/rider-2000-6-19.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 561 [text/plain]
+Saving to: ‘schemers.org/Positions/rider-2000-6-19.txt’
+
+schemers.org/Position 100%[=======================>]     561  --.-KB/s    in 0s
+
+2020-12-16 01:08:00 (9.55 MB/s) - ‘schemers.org/Positions/rider-2000-6-19.txt’ saved [561/561]
+
+--2020-12-16 01:08:00--  https://schemers.org/Positions/transmeta-2001-12-17.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1155 (1.1K) [text/plain]
+Saving to: ‘schemers.org/Positions/transmeta-2001-12-17.txt’
+
+schemers.org/Position 100%[=======================>]   1.13K  --.-KB/s    in 0s
+
+2020-12-16 01:08:00 (22.0 MB/s) - ‘schemers.org/Positions/transmeta-2001-12-17.txt’ saved [1155/1155]
+
+--2020-12-16 01:08:00--  https://schemers.org/Events/Workshops/Sep1998/minutes
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 17746 (17K)
+Saving to: ‘schemers.org/Events/Workshops/Sep1998/minutes’
+
+schemers.org/Events/W 100%[=======================>]  17.33K  --.-KB/s    in 0.1s
+
+2020-12-16 01:08:00 (159 KB/s) - ‘schemers.org/Events/Workshops/Sep1998/minutes’ saved [17746/17746]
+
+--2020-12-16 01:08:00--  https://schemers.org/Miscellaneous/imagine.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1884 (1.8K) [text/plain]
+Saving to: ‘schemers.org/Miscellaneous/imagine.txt’
+
+schemers.org/Miscella 100%[=======================>]   1.84K  --.-KB/s    in 0s
+
+2020-12-16 01:08:00 (29.5 MB/s) - ‘schemers.org/Miscellaneous/imagine.txt’ saved [1884/1884]
+
+--2020-12-16 01:08:00--  https://schemers.org/Miscellaneous/carolan.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 976 [text/plain]
+Saving to: ‘schemers.org/Miscellaneous/carolan.txt’
+
+schemers.org/Miscella 100%[=======================>]     976  --.-KB/s    in 0s
+
+2020-12-16 01:08:00 (19.8 MB/s) - ‘schemers.org/Miscellaneous/carolan.txt’ saved [976/976]
+
+--2020-12-16 01:08:00--  https://schemers.org/Miscellaneous/lispm-verse.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 159 [text/plain]
+Saving to: ‘schemers.org/Miscellaneous/lispm-verse.txt’
+
+schemers.org/Miscella 100%[=======================>]     159  --.-KB/s    in 0s
+
+2020-12-16 01:08:00 (7.22 MB/s) - ‘schemers.org/Miscellaneous/lispm-verse.txt’ saved [159/159]
+
+--2020-12-16 01:08:00--  https://schemers.org/Documents/Standards/Charter/status-jun-2006/status-jun06.html
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 37432 (37K) [text/html]
+Saving to: ‘schemers.org/Documents/Standards/Charter/status-jun-2006/status-jun06.html’
+
+schemers.org/Document 100%[=======================>]  36.55K  --.-KB/s    in 0.1s
+
+2020-12-16 01:08:01 (333 KB/s) - ‘schemers.org/Documents/Standards/Charter/status-jun-2006/status-jun06.html’ saved [37432/37432]
+
+--2020-12-16 01:08:01--  https://schemers.org/Documents/Standards/Charter/status-jun-2006/status-jun06.pdf
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 86014 (84K) [application/pdf]
+Saving to: ‘schemers.org/Documents/Standards/Charter/status-jun-2006/status-jun06.pdf’
+
+schemers.org/Document 100%[=======================>]  84.00K  --.-KB/s    in 0.1s
+
+2020-12-16 01:08:01 (716 KB/s) - ‘schemers.org/Documents/Standards/Charter/status-jun-2006/status-jun06.pdf’ saved [86014/86014]
+
+--2020-12-16 01:08:01--  https://schemers.org/Documents/Standards/Charter/report-mar-2006.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1221 (1.2K) [text/plain]
+Saving to: ‘schemers.org/Documents/Standards/Charter/report-mar-2006.txt’
+
+schemers.org/Document 100%[=======================>]   1.19K  --.-KB/s    in 0s
+
+2020-12-16 01:08:01 (35.3 MB/s) - ‘schemers.org/Documents/Standards/Charter/report-mar-2006.txt’ saved [1221/1221]
+
+--2020-12-16 01:08:01--  https://schemers.org/Documents/Standards/Charter/charter-mar-2006.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6398 (6.2K) [text/plain]
+Saving to: ‘schemers.org/Documents/Standards/Charter/charter-mar-2006.txt’
+
+schemers.org/Document 100%[=======================>]   6.25K  --.-KB/s    in 0s
+
+2020-12-16 01:08:01 (13.1 MB/s) - ‘schemers.org/Documents/Standards/Charter/charter-mar-2006.txt’ saved [6398/6398]
+
+--2020-12-16 01:08:01--  https://schemers.org/Documents/Standards/Charter/diffs-2006-03-2004-10.diff
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2369 (2.3K) [text/x-diff]
+Saving to: ‘schemers.org/Documents/Standards/Charter/diffs-2006-03-2004-10.diff’
+
+schemers.org/Document 100%[=======================>]   2.31K  --.-KB/s    in 0s
+
+2020-12-16 01:08:01 (57.9 MB/s) - ‘schemers.org/Documents/Standards/Charter/diffs-2006-03-2004-10.diff’ saved [2369/2369]
+
+--2020-12-16 01:08:01--  https://schemers.org/Documents/Standards/Charter/status-mar-2006.pdf
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 69050 (67K) [application/pdf]
+Saving to: ‘schemers.org/Documents/Standards/Charter/status-mar-2006.pdf’
+
+schemers.org/Document 100%[=======================>]  67.43K  --.-KB/s    in 0.005s
+
+2020-12-16 01:08:02 (12.2 MB/s) - ‘schemers.org/Documents/Standards/Charter/status-mar-2006.pdf’ saved [69050/69050]
+
+--2020-12-16 01:08:02--  https://schemers.org/Documents/Standards/Charter/status-mar-2006.html
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 20125 (20K) [text/html]
+Saving to: ‘schemers.org/Documents/Standards/Charter/status-mar-2006.html’
+
+schemers.org/Document 100%[=======================>]  19.65K  --.-KB/s    in 0.002s
+
+2020-12-16 01:08:02 (11.4 MB/s) - ‘schemers.org/Documents/Standards/Charter/status-mar-2006.html’ saved [20125/20125]
+
+--2020-12-16 01:08:02--  https://schemers.org/Documents/Standards/Charter/mar-2005.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3908 (3.8K) [text/plain]
+Saving to: ‘schemers.org/Documents/Standards/Charter/mar-2005.txt’
+
+schemers.org/Document 100%[=======================>]   3.82K  --.-KB/s    in 0s
+
+2020-12-16 01:08:02 (49.0 MB/s) - ‘schemers.org/Documents/Standards/Charter/mar-2005.txt’ saved [3908/3908]
+
+--2020-12-16 01:08:02--  https://schemers.org/Documents/Standards/Charter/oct-2004.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6325 (6.2K) [text/plain]
+Saving to: ‘schemers.org/Documents/Standards/Charter/oct-2004.txt’
+
+schemers.org/Document 100%[=======================>]   6.18K  --.-KB/s    in 0s
+
+2020-12-16 01:08:02 (67.8 MB/s) - ‘schemers.org/Documents/Standards/Charter/oct-2004.txt’ saved [6325/6325]
+
+--2020-12-16 01:08:02--  https://schemers.org/Documents/Standards/Charter/2004-10-13.pdf
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 45346 (44K) [application/pdf]
+Saving to: ‘schemers.org/Documents/Standards/Charter/2004-10-13.pdf’
+
+schemers.org/Document 100%[=======================>]  44.28K  --.-KB/s    in 0.003s
+
+2020-12-16 01:08:02 (13.5 MB/s) - ‘schemers.org/Documents/Standards/Charter/2004-10-13.pdf’ saved [45346/45346]
+
+--2020-12-16 01:08:02--  https://schemers.org/Documents/Standards/Charter/jan-2004.txt
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5453 (5.3K) [text/plain]
+Saving to: ‘schemers.org/Documents/Standards/Charter/jan-2004.txt’
+
+schemers.org/Document 100%[=======================>]   5.33K  --.-KB/s    in 0s
+
+2020-12-16 01:08:02 (92.9 MB/s) - ‘schemers.org/Documents/Standards/Charter/jan-2004.txt’ saved [5453/5453]
+
+--2020-12-16 01:08:02--  https://schemers.org/Documents/Standards/R5RS/r5rs.dvi
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 308612 (301K) [application/x-dvi]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/r5rs.dvi’
+
+schemers.org/Document 100%[=======================>] 301.38K  1.30MB/s    in 0.2s
+
+2020-12-16 01:08:03 (1.30 MB/s) - ‘schemers.org/Documents/Standards/R5RS/r5rs.dvi’ saved [308612/308612]
+
+--2020-12-16 01:08:03--  https://schemers.org/Documents/Standards/R5RS/r5rs.ps
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 870939 (851K) [application/postscript]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/r5rs.ps’
+
+schemers.org/Document 100%[=======================>] 850.53K  2.97MB/s    in 0.3s
+
+2020-12-16 01:08:03 (2.97 MB/s) - ‘schemers.org/Documents/Standards/R5RS/r5rs.ps’ saved [870939/870939]
+
+--2020-12-16 01:08:03--  https://schemers.org/Documents/Standards/R5RS/r5rs.pdf
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 572547 (559K) [application/pdf]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/r5rs.pdf’
+
+schemers.org/Document 100%[=======================>] 559.13K  --.-KB/s    in 0.1s
+
+2020-12-16 01:08:03 (4.72 MB/s) - ‘schemers.org/Documents/Standards/R5RS/r5rs.pdf’ saved [572547/572547]
+
+--2020-12-16 01:08:03--  https://schemers.org/Documents/Standards/R5RS/HTML/
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 139 [text/html]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/index.html’
+
+schemers.org/Document 100%[=======================>]     139  --.-KB/s    in 0s
+
+2020-12-16 01:08:03 (5.52 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/index.html’ saved [139/139]
+
+--2020-12-16 01:08:03--  https://schemers.org/Documents/Standards/R5RS/r5rs.chm
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 253768 (248K) [chemical/x-chemdraw]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/r5rs.chm’
+
+schemers.org/Document 100%[=======================>] 247.82K  --.-KB/s    in 0.02s
+
+2020-12-16 01:08:04 (11.3 MB/s) - ‘schemers.org/Documents/Standards/R5RS/r5rs.chm’ saved [253768/253768]
+
+--2020-12-16 01:08:04--  https://schemers.org/Documents/Standards/R5RS/r5rs-html.tar.gz
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 171470 (167K) [application/x-gzip]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/r5rs-html.tar.gz’
+
+schemers.org/Document 100%[=======================>] 167.45K  --.-KB/s    in 0.02s
+
+2020-12-16 01:08:04 (9.46 MB/s) - ‘schemers.org/Documents/Standards/R5RS/r5rs-html.tar.gz’ saved [171470/171470]
+
+--2020-12-16 01:08:04--  https://schemers.org/Documents/Standards/Charter/status-jun-2006/status.css
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 297 [text/css]
+Saving to: ‘schemers.org/Documents/Standards/Charter/status-jun-2006/status.css’
+
+schemers.org/Document 100%[=======================>]     297  --.-KB/s    in 0s
+
+2020-12-16 01:08:04 (5.25 MB/s) - ‘schemers.org/Documents/Standards/Charter/status-jun-2006/status.css’ saved [297/297]
+
+--2020-12-16 01:08:04--  https://schemers.org/Documents/Standards/Charter/status-jun-2006/status-feb06.html
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-12-16 01:08:04 ERROR 404: Not Found.
+
+--2020-12-16 01:08:04--  https://schemers.org/Documents/Standards/Charter/status.css
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-12-16 01:08:04 ERROR 404: Not Found.
+
+--2020-12-16 01:08:04--  https://schemers.org/Documents/Standards/R5RS/HTML/navigation.html
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11620 (11K) [text/html]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/navigation.html’
+
+schemers.org/Document 100%[=======================>]  11.35K  --.-KB/s    in 0s
+
+2020-12-16 01:08:04 (40.6 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/navigation.html’ saved [11620/11620]
+
+--2020-12-16 01:08:04--  https://schemers.org/Documents/Standards/R5RS/HTML/real-index.html
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2333 (2.3K) [text/html]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/real-index.html’
+
+schemers.org/Document 100%[=======================>]   2.28K  --.-KB/s    in 0s
+
+2020-12-16 01:08:04 (49.4 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/real-index.html’ saved [2333/2333]
+
+--2020-12-16 01:08:04--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-C.css
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1157 (1.1K) [text/css]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-C.css’
+
+schemers.org/Document 100%[=======================>]   1.13K  --.-KB/s    in 0s
+
+2020-12-16 01:08:05 (32.5 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-C.css’ saved [1157/1157]
+
+--2020-12-16 01:08:05--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-1.html
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2793 (2.7K) [text/html]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-1.html’
+
+schemers.org/Document 100%[=======================>]   2.73K  --.-KB/s    in 0s
+
+2020-12-16 01:08:05 (29.6 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-1.html’ saved [2793/2793]
+
+--2020-12-16 01:08:05--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-3.html
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6881 (6.7K) [text/html]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-3.html’
+
+schemers.org/Document 100%[=======================>]   6.72K  --.-KB/s    in 0s
+
+2020-12-16 01:08:05 (22.9 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-3.html’ saved [6881/6881]
+
+--2020-12-16 01:08:05--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-4.html
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 15081 (15K) [text/html]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-4.html’
+
+schemers.org/Document 100%[=======================>]  14.73K  --.-KB/s    in 0.003s
+
+2020-12-16 01:08:05 (5.29 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-4.html’ saved [15081/15081]
+
+--2020-12-16 01:08:05--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-5.html
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8569 (8.4K) [text/html]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-5.html’
+
+schemers.org/Document 100%[=======================>]   8.37K  --.-KB/s    in 0s
+
+2020-12-16 01:08:05 (42.3 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-5.html’ saved [8569/8569]
+
+--2020-12-16 01:08:05--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-6.html
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 17583 (17K) [text/html]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-6.html’
+
+schemers.org/Document 100%[=======================>]  17.17K  --.-KB/s    in 0s
+
+2020-12-16 01:08:05 (36.7 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-6.html’ saved [17583/17583]
+
+--2020-12-16 01:08:05--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-7.html
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 59974 (59K) [text/html]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-7.html’
+
+schemers.org/Document 100%[=======================>]  58.57K  --.-KB/s    in 0.003s
+
+2020-12-16 01:08:05 (18.3 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-7.html’ saved [59974/59974]
+
+--2020-12-16 01:08:05--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-8.html
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9628 (9.4K) [text/html]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-8.html’
+
+schemers.org/Document 100%[=======================>]   9.40K  --.-KB/s    in 0s
+
+2020-12-16 01:08:06 (59.2 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-8.html’ saved [9628/9628]
+
+--2020-12-16 01:08:06--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-9.html
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 173333 (169K) [text/html]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-9.html’
+
+schemers.org/Document 100%[=======================>] 169.27K  --.-KB/s    in 0.01s
+
+2020-12-16 01:08:06 (11.3 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-9.html’ saved [173333/173333]
+
+--2020-12-16 01:08:06--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-10.html
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24083 (24K) [text/html]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-10.html’
+
+schemers.org/Document 100%[=======================>]  23.52K  --.-KB/s    in 0.001s
+
+2020-12-16 01:08:06 (22.2 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-10.html’ saved [24083/24083]
+
+--2020-12-16 01:08:06--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-11.html
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3332 (3.3K) [text/html]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-11.html’
+
+schemers.org/Document 100%[=======================>]   3.25K  --.-KB/s    in 0s
+
+2020-12-16 01:08:06 (77.5 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-11.html’ saved [3332/3332]
+
+--2020-12-16 01:08:06--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-12.html
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1655 (1.6K) [text/html]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-12.html’
+
+schemers.org/Document 100%[=======================>]   1.62K  --.-KB/s    in 0s
+
+2020-12-16 01:08:06 (24.7 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-12.html’ saved [1655/1655]
+
+--2020-12-16 01:08:06--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-13.html
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9241 (9.0K) [text/html]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-13.html’
+
+schemers.org/Document 100%[=======================>]   9.02K  --.-KB/s    in 0s
+
+2020-12-16 01:08:06 (37.2 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-13.html’ saved [9241/9241]
+
+--2020-12-16 01:08:06--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-14.html
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8975 (8.8K) [text/html]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-14.html’
+
+schemers.org/Document 100%[=======================>]   8.76K  --.-KB/s    in 0.001s
+
+2020-12-16 01:08:06 (8.89 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-14.html’ saved [8975/8975]
+
+--2020-12-16 01:08:06--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-15.html
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 20683 (20K) [text/html]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-15.html’
+
+schemers.org/Document 100%[=======================>]  20.20K  --.-KB/s    in 0.001s
+
+2020-12-16 01:08:06 (32.1 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-15.html’ saved [20683/20683]
+
+--2020-12-16 01:08:06--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-2.html
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 13695 (13K) [text/html]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-2.html’
+
+schemers.org/Document 100%[=======================>]  13.37K  --.-KB/s    in 0s
+
+2020-12-16 01:08:07 (51.0 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-H-2.html’ saved [13695/13695]
+
+--2020-12-16 01:08:07--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs.html
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2333 (2.3K) [text/html]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs.html’
+
+schemers.org/Document 100%[=======================>]   2.28K  --.-KB/s    in 0s
+
+2020-12-16 01:08:07 (40.5 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs.html’ saved [2333/2333]
+
+--2020-12-16 01:08:07--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-D-3.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 52 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-D-3.gif’
+
+schemers.org/Document 100%[=======================>]      52  --.-KB/s    in 0s
+
+2020-12-16 01:08:07 (1016 KB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-D-3.gif’ saved [52/52]
+
+--2020-12-16 01:08:07--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-D-8.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 61 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-D-8.gif’
+
+schemers.org/Document 100%[=======================>]      61  --.-KB/s    in 0s
+
+2020-12-16 01:08:07 (1.62 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-D-8.gif’ saved [61/61]
+
+--2020-12-16 01:08:07--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-D-1.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 46 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-D-1.gif’
+
+schemers.org/Document 100%[=======================>]      46  --.-KB/s    in 0s
+
+2020-12-16 01:08:07 (1.37 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-D-1.gif’ saved [46/46]
+
+--2020-12-16 01:08:07--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-2.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2759 (2.7K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-2.gif’
+
+schemers.org/Document 100%[=======================>]   2.69K  --.-KB/s    in 0s
+
+2020-12-16 01:08:07 (38.7 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-2.gif’ saved [2759/2759]
+
+--2020-12-16 01:08:07--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-3.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7480 (7.3K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-3.gif’
+
+schemers.org/Document 100%[=======================>]   7.30K  --.-KB/s    in 0s
+
+2020-12-16 01:08:07 (115 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-3.gif’ saved [7480/7480]
+
+--2020-12-16 01:08:07--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-4.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 533 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-4.gif’
+
+schemers.org/Document 100%[=======================>]     533  --.-KB/s    in 0s
+
+2020-12-16 01:08:07 (18.2 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-4.gif’ saved [533/533]
+
+--2020-12-16 01:08:07--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-5.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4619 (4.5K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-5.gif’
+
+schemers.org/Document 100%[=======================>]   4.51K  --.-KB/s    in 0s
+
+2020-12-16 01:08:08 (91.8 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-5.gif’ saved [4619/4619]
+
+--2020-12-16 01:08:08--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-6.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3201 (3.1K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-6.gif’
+
+schemers.org/Document 100%[=======================>]   3.13K  --.-KB/s    in 0s
+
+2020-12-16 01:08:08 (44.9 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-6.gif’ saved [3201/3201]
+
+--2020-12-16 01:08:08--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-7.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3081 (3.0K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-7.gif’
+
+schemers.org/Document 100%[=======================>]   3.01K  --.-KB/s    in 0s
+
+2020-12-16 01:08:08 (66.8 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-7.gif’ saved [3081/3081]
+
+--2020-12-16 01:08:08--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-8.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6916 (6.8K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-8.gif’
+
+schemers.org/Document 100%[=======================>]   6.75K  --.-KB/s    in 0s
+
+2020-12-16 01:08:08 (57.9 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-8.gif’ saved [6916/6916]
+
+--2020-12-16 01:08:08--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-9.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5930 (5.8K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-9.gif’
+
+schemers.org/Document 100%[=======================>]   5.79K  --.-KB/s    in 0s
+
+2020-12-16 01:08:08 (73.4 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-9.gif’ saved [5930/5930]
+
+--2020-12-16 01:08:08--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-10.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5917 (5.8K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-10.gif’
+
+schemers.org/Document 100%[=======================>]   5.78K  --.-KB/s    in 0s
+
+2020-12-16 01:08:08 (115 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-10.gif’ saved [5917/5917]
+
+--2020-12-16 01:08:08--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-11.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3451 (3.4K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-11.gif’
+
+schemers.org/Document 100%[=======================>]   3.37K  --.-KB/s    in 0s
+
+2020-12-16 01:08:08 (53.1 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-11.gif’ saved [3451/3451]
+
+--2020-12-16 01:08:08--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-12.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2693 (2.6K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-12.gif’
+
+schemers.org/Document 100%[=======================>]   2.63K  --.-KB/s    in 0s
+
+2020-12-16 01:08:08 (54.6 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-12.gif’ saved [2693/2693]
+
+--2020-12-16 01:08:08--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-D-2.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 53 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-D-2.gif’
+
+schemers.org/Document 100%[=======================>]      53  --.-KB/s    in 0s
+
+2020-12-16 01:08:09 (1.37 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-D-2.gif’ saved [53/53]
+
+--2020-12-16 01:08:09--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-D-4.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 55 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-D-4.gif’
+
+schemers.org/Document 100%[=======================>]      55  --.-KB/s    in 0s
+
+2020-12-16 01:08:09 (1.05 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-D-4.gif’ saved [55/55]
+
+--2020-12-16 01:08:09--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-D-7.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 55 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-D-7.gif’
+
+schemers.org/Document 100%[=======================>]      55  --.-KB/s    in 0s
+
+2020-12-16 01:08:09 (1.94 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-D-7.gif’ saved [55/55]
+
+--2020-12-16 01:08:09--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-D-5.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 61 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-D-5.gif’
+
+schemers.org/Document 100%[=======================>]      61  --.-KB/s    in 0s
+
+2020-12-16 01:08:09 (1.66 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-D-5.gif’ saved [61/61]
+
+--2020-12-16 01:08:09--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-13.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 416 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-13.gif’
+
+schemers.org/Document 100%[=======================>]     416  --.-KB/s    in 0s
+
+2020-12-16 01:08:09 (9.45 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-13.gif’ saved [416/416]
+
+--2020-12-16 01:08:09--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-D-6.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 57 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-D-6.gif’
+
+schemers.org/Document 100%[=======================>]      57  --.-KB/s    in 0s
+
+2020-12-16 01:08:09 (1.18 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-D-6.gif’ saved [57/57]
+
+--2020-12-16 01:08:09--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-14.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1077 (1.1K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-14.gif’
+
+schemers.org/Document 100%[=======================>]   1.05K  --.-KB/s    in 0s
+
+2020-12-16 01:08:09 (22.8 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-14.gif’ saved [1077/1077]
+
+--2020-12-16 01:08:09--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-15.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1284 (1.3K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-15.gif’
+
+schemers.org/Document 100%[=======================>]   1.25K  --.-KB/s    in 0s
+
+2020-12-16 01:08:09 (34.0 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-15.gif’ saved [1284/1284]
+
+--2020-12-16 01:08:09--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-16.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3840 (3.8K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-16.gif’
+
+schemers.org/Document 100%[=======================>]   3.75K  --.-KB/s    in 0s
+
+2020-12-16 01:08:09 (54.7 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-16.gif’ saved [3840/3840]
+
+--2020-12-16 01:08:09--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-17.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 626 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-17.gif’
+
+schemers.org/Document 100%[=======================>]     626  --.-KB/s    in 0s
+
+2020-12-16 01:08:10 (17.1 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-17.gif’ saved [626/626]
+
+--2020-12-16 01:08:10--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-18.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 314 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-18.gif’
+
+schemers.org/Document 100%[=======================>]     314  --.-KB/s    in 0s
+
+2020-12-16 01:08:10 (4.75 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-18.gif’ saved [314/314]
+
+--2020-12-16 01:08:10--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-19.gif
+Connecting to schemers.org (schemers.org)|128.148.32.110|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1018 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-19.gif’
+
+schemers.org/Document 100%[=======================>]    1018  --.-KB/s    in 0s
+
+2020-12-16 01:08:10 (19.8 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-19.gif’ saved [1018/1018]
+
+--2020-12-16 01:08:10--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-20.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1168 (1.1K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-20.gif’
+
+schemers.org/Document 100%[=======================>]   1.14K  --.-KB/s    in 0s
+
+2020-12-16 01:08:10 (33.8 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-20.gif’ saved [1168/1168]
+
+--2020-12-16 01:08:10--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-21.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2501 (2.4K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-21.gif’
+
+schemers.org/Document 100%[=======================>]   2.44K  --.-KB/s    in 0s
+
+2020-12-16 01:08:11 (22.3 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-21.gif’ saved [2501/2501]
+
+--2020-12-16 01:08:11--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-22.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2632 (2.6K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-22.gif’
+
+schemers.org/Document 100%[=======================>]   2.57K  --.-KB/s    in 0s
+
+2020-12-16 01:08:11 (48.3 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-22.gif’ saved [2632/2632]
+
+--2020-12-16 01:08:11--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-23.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 498 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-23.gif’
+
+schemers.org/Document 100%[=======================>]     498  --.-KB/s    in 0s
+
+2020-12-16 01:08:11 (17.6 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-23.gif’ saved [498/498]
+
+--2020-12-16 01:08:11--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-24.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 881 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-24.gif’
+
+schemers.org/Document 100%[=======================>]     881  --.-KB/s    in 0s
+
+2020-12-16 01:08:11 (24.7 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-24.gif’ saved [881/881]
+
+--2020-12-16 01:08:11--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-25.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 901 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-25.gif’
+
+schemers.org/Document 100%[=======================>]     901  --.-KB/s    in 0s
+
+2020-12-16 01:08:11 (13.4 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-25.gif’ saved [901/901]
+
+--2020-12-16 01:08:11--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-26.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 966 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-26.gif’
+
+schemers.org/Document 100%[=======================>]     966  --.-KB/s    in 0s
+
+2020-12-16 01:08:11 (30.7 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-26.gif’ saved [966/966]
+
+--2020-12-16 01:08:11--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-27.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 197 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-27.gif’
+
+schemers.org/Document 100%[=======================>]     197  --.-KB/s    in 0s
+
+2020-12-16 01:08:11 (5.22 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-27.gif’ saved [197/197]
+
+--2020-12-16 01:08:11--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-28.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 786 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-28.gif’
+
+schemers.org/Document 100%[=======================>]     786  --.-KB/s    in 0s
+
+2020-12-16 01:08:11 (15.9 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-28.gif’ saved [786/786]
+
+--2020-12-16 01:08:11--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-29.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 178 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-29.gif’
+
+schemers.org/Document 100%[=======================>]     178  --.-KB/s    in 0s
+
+2020-12-16 01:08:12 (4.04 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-29.gif’ saved [178/178]
+
+--2020-12-16 01:08:12--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-30.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 439 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-30.gif’
+
+schemers.org/Document 100%[=======================>]     439  --.-KB/s    in 0s
+
+2020-12-16 01:08:12 (7.61 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-30.gif’ saved [439/439]
+
+--2020-12-16 01:08:12--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-31.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 355 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-31.gif’
+
+schemers.org/Document 100%[=======================>]     355  --.-KB/s    in 0s
+
+2020-12-16 01:08:12 (4.91 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-31.gif’ saved [355/355]
+
+--2020-12-16 01:08:12--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-32.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1045 (1.0K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-32.gif’
+
+schemers.org/Document 100%[=======================>]   1.02K  --.-KB/s    in 0s
+
+2020-12-16 01:08:12 (22.6 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-32.gif’ saved [1045/1045]
+
+--2020-12-16 01:08:12--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-33.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 407 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-33.gif’
+
+schemers.org/Document 100%[=======================>]     407  --.-KB/s    in 0s
+
+2020-12-16 01:08:12 (11.8 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-33.gif’ saved [407/407]
+
+--2020-12-16 01:08:12--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-34.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 305 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-34.gif’
+
+schemers.org/Document 100%[=======================>]     305  --.-KB/s    in 0s
+
+2020-12-16 01:08:12 (6.61 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-34.gif’ saved [305/305]
+
+--2020-12-16 01:08:12--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-35.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 930 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-35.gif’
+
+schemers.org/Document 100%[=======================>]     930  --.-KB/s    in 0s
+
+2020-12-16 01:08:12 (12.1 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-35.gif’ saved [930/930]
+
+--2020-12-16 01:08:12--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-36.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 494 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-36.gif’
+
+schemers.org/Document 100%[=======================>]     494  --.-KB/s    in 0s
+
+2020-12-16 01:08:12 (9.24 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-36.gif’ saved [494/494]
+
+--2020-12-16 01:08:12--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-37.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 435 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-37.gif’
+
+schemers.org/Document 100%[=======================>]     435  --.-KB/s    in 0s
+
+2020-12-16 01:08:13 (9.65 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-37.gif’ saved [435/435]
+
+--2020-12-16 01:08:13--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-38.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 476 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-38.gif’
+
+schemers.org/Document 100%[=======================>]     476  --.-KB/s    in 0s
+
+2020-12-16 01:08:13 (7.96 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-38.gif’ saved [476/476]
+
+--2020-12-16 01:08:13--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-39.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 474 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-39.gif’
+
+schemers.org/Document 100%[=======================>]     474  --.-KB/s    in 0s
+
+2020-12-16 01:08:13 (5.26 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-39.gif’ saved [474/474]
+
+--2020-12-16 01:08:13--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-40.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1636 (1.6K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-40.gif’
+
+schemers.org/Document 100%[=======================>]   1.60K  --.-KB/s    in 0s
+
+2020-12-16 01:08:13 (39.0 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-40.gif’ saved [1636/1636]
+
+--2020-12-16 01:08:13--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-41.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1172 (1.1K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-41.gif’
+
+schemers.org/Document 100%[=======================>]   1.14K  --.-KB/s    in 0s
+
+2020-12-16 01:08:13 (46.6 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-41.gif’ saved [1172/1172]
+
+--2020-12-16 01:08:13--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-42.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 447 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-42.gif’
+
+schemers.org/Document 100%[=======================>]     447  --.-KB/s    in 0s
+
+2020-12-16 01:08:13 (8.88 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-42.gif’ saved [447/447]
+
+--2020-12-16 01:08:13--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-43.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 555 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-43.gif’
+
+schemers.org/Document 100%[=======================>]     555  --.-KB/s    in 0s
+
+2020-12-16 01:08:13 (14.3 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-43.gif’ saved [555/555]
+
+--2020-12-16 01:08:13--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-44.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 445 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-44.gif’
+
+schemers.org/Document 100%[=======================>]     445  --.-KB/s    in 0s
+
+2020-12-16 01:08:13 (14.6 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-44.gif’ saved [445/445]
+
+--2020-12-16 01:08:13--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-45.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 491 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-45.gif’
+
+schemers.org/Document 100%[=======================>]     491  --.-KB/s    in 0s
+
+2020-12-16 01:08:14 (11.4 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-45.gif’ saved [491/491]
+
+--2020-12-16 01:08:14--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-46.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 396 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-46.gif’
+
+schemers.org/Document 100%[=======================>]     396  --.-KB/s    in 0s
+
+2020-12-16 01:08:14 (6.51 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-46.gif’ saved [396/396]
+
+--2020-12-16 01:08:14--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-47.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 846 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-47.gif’
+
+schemers.org/Document 100%[=======================>]     846  --.-KB/s    in 0s
+
+2020-12-16 01:08:14 (23.1 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-47.gif’ saved [846/846]
+
+--2020-12-16 01:08:14--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-48.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1020 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-48.gif’
+
+schemers.org/Document 100%[=======================>]    1020  --.-KB/s    in 0s
+
+2020-12-16 01:08:14 (17.4 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-48.gif’ saved [1020/1020]
+
+--2020-12-16 01:08:14--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-49.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1103 (1.1K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-49.gif’
+
+schemers.org/Document 100%[=======================>]   1.08K  --.-KB/s    in 0s
+
+2020-12-16 01:08:14 (32.9 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-49.gif’ saved [1103/1103]
+
+--2020-12-16 01:08:14--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-50.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 920 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-50.gif’
+
+schemers.org/Document 100%[=======================>]     920  --.-KB/s    in 0s
+
+2020-12-16 01:08:14 (21.9 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-50.gif’ saved [920/920]
+
+--2020-12-16 01:08:14--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-51.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2018 (2.0K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-51.gif’
+
+schemers.org/Document 100%[=======================>]   1.97K  --.-KB/s    in 0s
+
+2020-12-16 01:08:14 (31.5 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-51.gif’ saved [2018/2018]
+
+--2020-12-16 01:08:14--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-52.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1193 (1.2K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-52.gif’
+
+schemers.org/Document 100%[=======================>]   1.17K  --.-KB/s    in 0s
+
+2020-12-16 01:08:14 (37.9 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-52.gif’ saved [1193/1193]
+
+--2020-12-16 01:08:14--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-53.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1168 (1.1K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-53.gif’
+
+schemers.org/Document 100%[=======================>]   1.14K  --.-KB/s    in 0s
+
+2020-12-16 01:08:14 (41.3 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-53.gif’ saved [1168/1168]
+
+--2020-12-16 01:08:14--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-54.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 911 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-54.gif’
+
+schemers.org/Document 100%[=======================>]     911  --.-KB/s    in 0s
+
+2020-12-16 01:08:15 (18.9 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-54.gif’ saved [911/911]
+
+--2020-12-16 01:08:15--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-55.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 304 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-55.gif’
+
+schemers.org/Document 100%[=======================>]     304  --.-KB/s    in 0s
+
+2020-12-16 01:08:15 (5.80 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-55.gif’ saved [304/304]
+
+--2020-12-16 01:08:15--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-56.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1776 (1.7K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-56.gif’
+
+schemers.org/Document 100%[=======================>]   1.73K  --.-KB/s    in 0s
+
+2020-12-16 01:08:15 (36.8 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-56.gif’ saved [1776/1776]
+
+--2020-12-16 01:08:15--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-57.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4285 (4.2K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-57.gif’
+
+schemers.org/Document 100%[=======================>]   4.18K  --.-KB/s    in 0s
+
+2020-12-16 01:08:15 (92.9 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-57.gif’ saved [4285/4285]
+
+--2020-12-16 01:08:15--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-58.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1231 (1.2K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-58.gif’
+
+schemers.org/Document 100%[=======================>]   1.20K  --.-KB/s    in 0s
+
+2020-12-16 01:08:15 (16.3 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-58.gif’ saved [1231/1231]
+
+--2020-12-16 01:08:15--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-59.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1786 (1.7K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-59.gif’
+
+schemers.org/Document 100%[=======================>]   1.74K  --.-KB/s    in 0s
+
+2020-12-16 01:08:15 (17.9 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-59.gif’ saved [1786/1786]
+
+--2020-12-16 01:08:15--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-60.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2205 (2.2K) [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-60.gif’
+
+schemers.org/Document 100%[=======================>]   2.15K  --.-KB/s    in 0s
+
+2020-12-16 01:08:15 (56.8 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-60.gif’ saved [2205/2205]
+
+--2020-12-16 01:08:15--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-61.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 333 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-61.gif’
+
+schemers.org/Document 100%[=======================>]     333  --.-KB/s    in 0s
+
+2020-12-16 01:08:15 (4.18 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-61.gif’ saved [333/333]
+
+--2020-12-16 01:08:15--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-62.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 891 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-62.gif’
+
+schemers.org/Document 100%[=======================>]     891  --.-KB/s    in 0s
+
+2020-12-16 01:08:16 (19.3 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-62.gif’ saved [891/891]
+
+--2020-12-16 01:08:16--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-63.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 302 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-63.gif’
+
+schemers.org/Document 100%[=======================>]     302  --.-KB/s    in 0s
+
+2020-12-16 01:08:16 (6.40 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-63.gif’ saved [302/302]
+
+--2020-12-16 01:08:16--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-64.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 244 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-64.gif’
+
+schemers.org/Document 100%[=======================>]     244  --.-KB/s    in 0s
+
+2020-12-16 01:08:16 (4.65 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-64.gif’ saved [244/244]
+
+--2020-12-16 01:08:16--  https://schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-65.gif
+Reusing existing connection to schemers.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 177 [image/gif]
+Saving to: ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-65.gif’
+
+schemers.org/Document 100%[=======================>]     177  --.-KB/s    in 0s
+
+2020-12-16 01:08:16 (4.56 MB/s) - ‘schemers.org/Documents/Standards/R5RS/HTML/r5rs-Z-G-65.gif’ saved [177/177]
+
+FINISHED --2020-12-16 01:08:16--
+Total wall clock time: 25s
+Downloaded: 146 files, 2.9M in 1.0s (2.78 MB/s)

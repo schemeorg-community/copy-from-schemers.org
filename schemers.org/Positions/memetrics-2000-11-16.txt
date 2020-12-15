@@ -1,0 +1,43 @@
+[Editorial Note: The Chief Technology Officer is Ken Dickey, a
+ long-standing contributor in Lisp and Scheme circles.]
+
+Subject: International search for Lisp programmers, Memetrics P/L (Sydney,
+Australia)
+
+Memetrics (Sydney, Australia)
+
+As a result of new product developments and continued growth,
+Memetrics is conducting a world-wide search for software engineers
+experienced in Lisp or other functional programming languages and
+related technologies.
+
+Memetrics is a group of leading international engineers, scientists,
+and business professionals who are working together to implement a
+range of radically new presentation optimization systems using
+Lisp. We have attracted substantial private and government funding and
+our first product, XOS, was launched in San Francisco this week. For
+more company details, see our website, www.memetrics.com
+
+Because we're a young organization, you will have an excellent
+opportunity to have an impact on the evolution of the company. We
+offer a great work environment full of interesting and challenging
+problems.
+
+Required Experience and Skills
+
+Ideally you will possess at least three years experience in an object
+oriented development environment. Exposure to Lisp and CORBA in a
+commercial setting would be advantageous. Candidates should be
+comfortable using Unix and/or NT.  Successful candidates also must
+have excellent communication skills, and be willing to work closely
+within a tight-knit team. Experience with SQL would also be helpful.
+	
+Salary
+
+Compensation is based on skills and previous experience in addition to
+a generous pre-IPO stock option package. Australian and overseas
+applicants will be considered. Come to the city of which Lonely Planet
+says "...you would have to die and go to heaven before you see a more
+spectacular setting for a city."
+
+Please send resumes to jobs@memetrics.com

@@ -1,0 +1,40 @@
+Scheme Language Steering Committee Report to the Community
+
+March 1, 2006
+
+Since the last report of the Steering Committee, a number of important
+changes have taken place.
+
+First, Marc Feeley and Manuel Serrano have resigned from the Editors
+Committee.  We have accepted their resignations with regret, and with
+gratitude for the efforts they have expended to produce a revised
+Scheme standard. 
+
+In light of these changes, the Steering Committee has amended the
+Charter to:
+
+(a) change the number of Editors from seven to five.
+
+(b) replace the office of Editor-in-Chief by a Chair and a Project
+Editor.  The Chair is responsible for organizing meetings and other
+activities and ensuring that the process makes progress in an orderly
+fashion.  The Project Editor is responsible for producing
+standardization documents.
+
+The five editors have chosen their Chair and Project Editor.  They
+are:
+
+Chair: Kent Dybvig
+Project Editor: Mike Sperber
+
+The Editors Committee has now produced a progress report, which is
+available at schemers.org.  In it they state their intention to
+deliver to the Steering Committee a complete draft R6RS by September
+1, 2006.
+
+The Steering Committee looks forward to receiving their draft.
+
+
+
+
+

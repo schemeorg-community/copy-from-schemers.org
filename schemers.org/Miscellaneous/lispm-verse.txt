@@ -1,0 +1,4 @@
+Let hackers and wireheads grovel and curse,
+    Chase pointers and seg fault in C;
+Our LispM shall never fandango on core --
+    Content with hard CDR are we!

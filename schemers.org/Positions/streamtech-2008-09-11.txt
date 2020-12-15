@@ -1,0 +1,57 @@
+Lispers & Schemers wanted at Streamtech (The Netherlands)
+
+
+* About us
+
+Streamtech is a young development company in The Netherlands. We are
+continuously looking for programming talent, in the form of both
+fulltime employees and interns.  We spend our time building complex
+web applications using mainly Common Lisp.  Notably, we offer the Bitt
+suite of online profiling software.
+
+
+* Who we're looking for
+
+Programming to you is not just a job but a hobby. You've been
+programming for fun for years.
+
+You have at least some experience with Lisp or Scheme.
+
+You like the net.
+
+You're not blind to practical demands, but you relish doing things the
+right way. When something seems to work but you're not sure how or
+why, you bang your head against it until you understand.
+
+You love exploring interesting new languages, concepts and approaches.
+
+Having played with Haskell, Smalltalk, Prolog, Erlang, or other
+interesting languages gets you bonus points. The same goes for
+language/compiler implementation, kernel hacking, crypto and other
+interesting activities.
+
+Finally, you are willing to relocate to the The Hague area.
+
+
+* What we offer
+
+A challenging, fun job in a great team that does not think Java, OOP
+and XML are the answer to every question.
+
+
+* How to apply
+
+Please send your resume to jobs@streamtech.nl. Include at least one
+piece of code you wrote somewhat recently.  A good way to get your
+resume noticed would be to solve one or more of the problems on
+http://streamtech.nl/site/problem+set in your language of choice and
+send us the code.
+
+
+* International applicants
+
+We love receiving international applicants. Unfortunately, however,
+strict immigration laws make it impossible for us to hire fulltime
+employees from outside the EU.
+Note that this restriction does not apply for interns.
+

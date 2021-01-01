@@ -246,7 +246,10 @@ http://dept-info.labri.u-bordeaux.fr/~cori/Bouquins/scheme.ps
 
 http://mitpress.mit.edu/0262541483
 
-http://www.htdp.org/
+<a href="http://www.htdp.org/">
+<cite>How to Design Programs</cite></a>, Matthias Felleisen, Robert
+Bruce Findler, Matthew Flatt and Shriram Krishnamurthi, MIT Press,
+2001 (available in full on-line, date is for print version)
 
 http://www.schemers.com/tsg.html
 
@@ -285,8 +288,6 @@ http://www.lifl.fr/~routier/debScheme/debuter.htm
 http://deptinfo.unice.fr/~roy/PCPS/index.html
 
 http://www.ccs.neu.edu/home/dorai/t-y-scheme/t-y-scheme.html
-
-http://www.htdp.org/
 
 --------------------------------------------------------------------------------
     Opinion Pieces

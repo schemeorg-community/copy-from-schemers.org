@@ -10,11 +10,11 @@
   (let loop ((i 0) (space? #f) (chars '()))
     (if (= i (string-length s)) (list->string (reverse chars))
         (let ((char (string-ref s i)))
-          (loop (+ i 1)
-                (and (char-whitespace? char) (not (null? chars)))
-                (cond ((char-whitespace? char) chars)
-                      ((not space?) (cons char chars))
-                      (else (cons char (cons #\space chars)))))))))
+          (loop (+ i 1) (char-whitespace? char)
+                (if (char-whitespace? char) chars
+                    (cons char (if (and space? (not (null? chars)))
+                                   (cons #\space chars)
+                                   chars))))))))
 
 (define (alist-ref/default alist key default)
   (let ((pair (assoc key alist)))

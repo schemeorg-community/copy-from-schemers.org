@@ -1,0 +1,31 @@
+(import (scheme base) (scheme char) (scheme file) (scheme write))
+(import (srfi 13) (srfi 180))
+
+(define (disp . xs) (for-each display xs) (newline))
+
+(define (string-blank? s)
+  (string-every char-whitespace? s))
+
+(define (whitespace->space s)
+  (let loop ((i 0) (space? #f) (chars '()))
+    (if (= i (string-length s)) (list->string (reverse chars))
+        (let ((char (string-ref s i)))
+          (loop (+ i 1)
+                (and (char-whitespace? char) (not (null? chars)))
+                (cond ((char-whitespace? char) chars)
+                      ((not space?) (cons char chars))
+                      (else (cons char (cons #\space chars)))))))))
+
+(define (alist-ref/default alist key default)
+  (let ((pair (assoc key alist)))
+    (if pair (cdr pair) default)))
+
+(vector-for-each (lambda (elem)
+                   (let ((text (alist-ref/default elem 'text ""))
+                         (href (alist-ref/default elem 'href "")))
+                     (when (string-prefix-ci? "http" href)
+                       (unless (string-blank? text)
+                         (disp (whitespace->space text)))
+                       (disp (whitespace->space href))
+                       (newline))))
+                 (json-read))

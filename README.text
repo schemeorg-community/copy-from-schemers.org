@@ -275,6 +275,31 @@ http://www.ccs.neu.edu/home/dorai/t-y-scheme/t-y-scheme.html
 http://www.htdp.org/
 
 --------------------------------------------------------------------------------
+    Opinion Pieces
+--------------------------------------------------------------------------------
+
+The Perils of JavaSchools
+http://www.joelonsoftware.com/articles/ThePerilsofJavaSchools.html
+
+Why Java (and almost every other programming language) sucks
+http://poseur.com/java-scheme
+
+Successful Scheme: Programming language still going strong after 25 years
+http://www.itworld.com/AppDev/4061/swol-1013-regex/
+
+Lisp as an Alternative to Java
+http://www.flownet.com/ron/papers/lisp-java.pdf
+
+Symbolic Programming vs. the A.P. Curriculum
+http://http.cs.berkeley.edu/~bh/bridge.ps
+
+High School Computing: The Inside Story
+http://www.trollope.org/scheme.html
+
+Paul Graham&#39;s essays
+http://www.paulgraham.com/articles.html
+
+--------------------------------------------------------------------------------
     Implementations
 --------------------------------------------------------------------------------
 
@@ -355,32 +380,11 @@ http://community.schemewiki.org/?scheme-faq
 videos
 http://www.ccs.neu.edu/home/krhari/videos.htm
 
-The Perils of JavaSchools
-http://www.joelonsoftware.com/articles/ThePerilsofJavaSchools.html
-
-Why Java (and almost every other programming language) sucks
-http://poseur.com/java-scheme
-
-Successful Scheme: Programming language still going strong after 25 years
-http://www.itworld.com/AppDev/4061/swol-1013-regex/
-
-Lisp as an Alternative to Java
-http://www.flownet.com/ron/papers/lisp-java.pdf
-
-Symbolic Programming vs. the A.P. Curriculum
-http://http.cs.berkeley.edu/~bh/bridge.ps
-
 A Laboratory Computer Science Course for Liberal Arts Students
 http://www.cs.trinity.edu/~jhowland/jhowland/cs.lab.course.html
 
 Scheme for a Hands-on Abstraction-based Trial Experience of Computer Science
 http://www.gac.edu/~max/sccs-96-panel.html
-
-High School Computing: The Inside Story
-http://www.trollope.org/scheme.html
-
-Paul Graham&#39;s essays
-http://www.paulgraham.com/articles.html
 
 The Scheme Repository
 https://legacy.cs.indiana.edu/scheme-repository/

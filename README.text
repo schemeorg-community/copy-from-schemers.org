@@ -202,6 +202,11 @@ http://www.ai.mit.edu/projects/su/su.html
 MIT's Scheme "home page"
 http://www.swiss.ai.mit.edu/projects/scheme/index.html
 
+A Laboratory Computer Science Course for Liberal Arts Students
+http://www.cs.trinity.edu/~jhowland/jhowland/cs.lab.course.html
+
+http://www.wkap.nl/journals/lasc
+
 --------------------------------------------------------------------------------
     Books
 --------------------------------------------------------------------------------
@@ -299,6 +304,9 @@ http://www.trollope.org/scheme.html
 Paul Graham&#39;s essays
 http://www.paulgraham.com/articles.html
 
+Scheme for a Hands-on Abstraction-based Trial Experience of Computer Science
+http://www.gac.edu/~max/sccs-96-panel.html
+
 --------------------------------------------------------------------------------
     Implementations
 --------------------------------------------------------------------------------
@@ -341,6 +349,15 @@ http://www.cs.indiana.edu/scheme-repository/SRhome.html
 Carnegie Mellon
 http://www.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/lang/scheme/0.html
 
+The Scheme Repository
+https://legacy.cs.indiana.edu/scheme-repository/
+
+repository at CMU
+http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/scheme/
+
+archive
+http://www.brics.dk/~hosc/11-1/
+
 --------------------------------------------------------------------------------
     Humor and swag
 --------------------------------------------------------------------------------
@@ -379,23 +396,6 @@ http://community.schemewiki.org/?scheme-faq
 
 videos
 http://www.ccs.neu.edu/home/krhari/videos.htm
-
-A Laboratory Computer Science Course for Liberal Arts Students
-http://www.cs.trinity.edu/~jhowland/jhowland/cs.lab.course.html
-
-Scheme for a Hands-on Abstraction-based Trial Experience of Computer Science
-http://www.gac.edu/~max/sccs-96-panel.html
-
-The Scheme Repository
-https://legacy.cs.indiana.edu/scheme-repository/
-
-repository at CMU
-http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/scheme/
-
-http://www.wkap.nl/journals/lasc
-
-archive
-http://www.brics.dk/~hosc/11-1/
 
 fairly complete list
 http://community.schemewiki.org/?scheme-faq-standards#implementations

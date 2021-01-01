@@ -1,35 +1,6 @@
-2014
-http://homes.soic.indiana.edu/jhemann/scheme-14/
-
-2015
-http://andykeep.com/SchemeWorkshop2015/
-
-2016
-http://scheme2016.snow-fort.org/
-
-videos
-https://www.youtube.com/playlist?list=PLoH3jteqsb2jcsSe4Ve1TDeLL5fCCiwzC
-
-2017
-http://scheme2017.namin.org/
-
-videos
-https://www.youtube.com/playlist?list=PLnqUlCo055hWAwdO0V0lCBGfgL-3fFgvV
-
-2018
-http://www.schemeworkshop.org/2018/
-
-videos
-https://www.youtube.com/playlist?list=PLoH3jteqsb2j9qKCH8CuNLfzJdpKxy43J
-
-2019
-https://thomas.gilray.org/scheme-2019/
-
-videos
-https://www.youtube.com/playlist?list=PLyrlk8Xaylp4pcRhsuZ0gEOmggCOd8GBz
-
-the Collège de France
-http://www.youtube.com/watch?v=i7bc6yiJQ0I
+--------------------------------------------------------------------------------
+    Standards
+--------------------------------------------------------------------------------
 
 R6RS
 http://www.r6rs.org/
@@ -39,6 +10,114 @@ https://small.r7rs.org/
 
 R7RS Large
 http://r7rs.org/
+
+RnRS authors&#39; mailing list
+http://www.swiss.ai.mit.edu/projects/scheme/rrrs-archive.html
+
+from IEEE
+https://standards.ieee.org/standard/1178-1990.html
+
+R7RS
+https://small.r7rs.org/
+
+R6RS
+http://www.r6rs.org/
+
+R4RS
+https://people.csail.mit.edu/jaffer/r4rs.pdf
+
+http://www.r6rs.org/
+
+http://www.r6rs.org/r6rs-editors/
+
+http://www.r6rs.org/process.html
+
+--------------------------------------------------------------------------------
+    Events
+--------------------------------------------------------------------------------
+
+the Collège de France
+http://www.youtube.com/watch?v=i7bc6yiJQ0I
+
+2014
+http://homes.soic.indiana.edu/jhemann/scheme-14/
+
+2015
+http://andykeep.com/SchemeWorkshop2015/
+
+2016
+http://scheme2016.snow-fort.org/
+
+2017
+http://scheme2017.namin.org/
+
+2018
+http://www.schemeworkshop.org/2018/
+
+2019
+https://thomas.gilray.org/scheme-2019/
+
+videos
+https://www.youtube.com/playlist?list=PLoH3jteqsb2jcsSe4Ve1TDeLL5fCCiwzC
+
+videos
+https://www.youtube.com/playlist?list=PLnqUlCo055hWAwdO0V0lCBGfgL-3fFgvV
+
+videos
+https://www.youtube.com/playlist?list=PLoH3jteqsb2j9qKCH8CuNLfzJdpKxy43J
+
+videos
+https://www.youtube.com/playlist?list=PLyrlk8Xaylp4pcRhsuZ0gEOmggCOd8GBz
+
+home page
+http://www.schemeworkshop.org/
+
+2009 Scheme workshop
+http://users.csc.calpoly.edu/~clements/scheme-workshop-2009/
+
+Scheme 2008
+http://www.ccs.neu.edu/home/will/scheme2008/
+
+Scheme 2007
+http://sfp2007.ift.ulaval.ca/
+
+Scheme 2006
+http://scheme2006.cs.uchicago.edu/
+
+Scheme 2005
+http://www.deinprogramm.de/scheme-2005/
+
+2nd European LISP and Scheme Workshop
+http://lisp-ecoop05.bknr.net/home.html
+
+2004 Scheme Workshop
+http://www.cs.indiana.edu/scheme2004/
+
+First European Lisp and Scheme Workshop
+http://www.cs.uni-bonn.de/~costanza/lisp-ecoop/
+
+2003 Scheme Workshop
+http://scheme2003.flux.utah.edu/
+
+detailed notes
+http://www.makeoutcity.com/Downloads/2003-SchemeWorkshop.html
+
+Scheme and Functional Programming, 2002
+http://scheme2002.ccs.neu.edu/
+
+Scheme and Functional Programming, 2001
+http://kaolin.unice.fr/Scheme2001/
+
+Scheme and Functional Programming
+http://www.cs.rice.edu/~matthias/Scheme2000/
+
+Principles, Logics, and Implementations of High-Level Programming Languages
+http://www.cs.yorku.ca/pli-00/
+
+International Conference on Functional Programming
+http://www.cs.rice.edu/Conferences/ICFP98/
+
+--------------------------------------------------------------------------------
 
 Planet Scheme
 http://www.scheme.dk/planet/
@@ -262,31 +341,10 @@ https://legacy.cs.indiana.edu/scheme-repository/
 repository at CMU
 http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/scheme/
 
-RnRS authors&#39; mailing list
-http://www.swiss.ai.mit.edu/projects/scheme/rrrs-archive.html
-
-from IEEE
-https://standards.ieee.org/standard/1178-1990.html
-
-R7RS
-https://small.r7rs.org/
-
-R6RS
-http://www.r6rs.org/
-
-R4RS
-https://people.csail.mit.edu/jaffer/r4rs.pdf
-
 http://www.wkap.nl/journals/lasc
 
 archive
 http://www.brics.dk/~hosc/11-1/
-
-http://www.r6rs.org/
-
-http://www.r6rs.org/r6rs-editors/
-
-http://www.r6rs.org/process.html
 
 34
 http://srfi.schemers.org/srfi-34/
@@ -377,51 +435,3 @@ http://schemeway.sourceforge.net/
 
 Pilo Visual Tools for Scheme
 http://www.davidpilo.com/pvts/
-
-home page
-http://www.schemeworkshop.org/
-
-2009 Scheme workshop
-http://users.csc.calpoly.edu/~clements/scheme-workshop-2009/
-
-Scheme 2008
-http://www.ccs.neu.edu/home/will/scheme2008/
-
-Scheme 2007
-http://sfp2007.ift.ulaval.ca/
-
-Scheme 2006
-http://scheme2006.cs.uchicago.edu/
-
-Scheme 2005
-http://www.deinprogramm.de/scheme-2005/
-
-2nd European LISP and Scheme Workshop
-http://lisp-ecoop05.bknr.net/home.html
-
-2004 Scheme Workshop
-http://www.cs.indiana.edu/scheme2004/
-
-First European Lisp and Scheme Workshop
-http://www.cs.uni-bonn.de/~costanza/lisp-ecoop/
-
-2003 Scheme Workshop
-http://scheme2003.flux.utah.edu/
-
-detailed notes
-http://www.makeoutcity.com/Downloads/2003-SchemeWorkshop.html
-
-Scheme and Functional Programming, 2002
-http://scheme2002.ccs.neu.edu/
-
-Scheme and Functional Programming, 2001
-http://kaolin.unice.fr/Scheme2001/
-
-Scheme and Functional Programming
-http://www.cs.rice.edu/~matthias/Scheme2000/
-
-Principles, Logics, and Implementations of High-Level Programming Languages
-http://www.cs.yorku.ca/pli-00/
-
-International Conference on Functional Programming
-http://www.cs.rice.edu/Conferences/ICFP98/

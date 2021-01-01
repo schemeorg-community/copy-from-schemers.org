@@ -246,12 +246,6 @@ http://community.schemewiki.org/?scheme-faq-standards#implementations
 libraries
 http://community.schemewiki.org/?scheme-faq-standards#libraries
 
-Reqests for Implementation
-http://srfi.schemers.org/
-
-SRFI
-https://srfi.schemers.org/srfi.svg
-
 Functional Programming FAQ
 http://www.cs.nott.ac.uk/Department/Staff/gmh/faq.html
 
@@ -373,66 +367,6 @@ http://www.wkap.nl/journals/lasc
 
 archive
 http://www.brics.dk/~hosc/11-1/
-
-34
-http://srfi.schemers.org/srfi-34/
-
-35
-http://srfi.schemers.org/srfi-35/
-
-79
-http://srfi.schemers.org/srfi-79/
-
-81
-http://srfi.schemers.org/srfi-81/
-
-SRFI 74
-http://srfi.schemers.org/srfi-74/
-
-SRFI 77
-http://srfi.schemers.org/srfi-77/
-
-SRFI 85
-http://srfi.schemers.org/srfi-85/
-
-SRFI 1
-http://srfi.schemers.org/srfi-1/
-
-SRFI 0
-http://srfi.schemers.org/srfi-0/
-
-SRFI 83
-http://srfi.schemers.org/srfi-83/
-
-SRFI 76
-http://srfi.schemers.org/srfi-76/
-
-SRFI 75
-http://srfi.schemers.org/srfi-75/
-
-http://srfi.schemers.org/srfi-75/mail-archive/msg00309.html
-http://srfi.schemers.org/srfi-75/mail-archive/msg00309.html
-
-SRFI 77
-http://srfi.schemers.org/srfi-77/
-
-SRFI 34
-http://srfi.schemers.org/srfi-34/
-
-SRFI 35
-http://srfi.schemers.org/srfi-35/
-
-SRFI 79
-http://srfi.schemers.org/srfi-79/
-
-SRFI 81
-http://srfi.schemers.org/srfi-81/
-
-SRFI 93
-http://srfi.schemers.org/srfi-93/
-
-SRFI 74
-http://srfi.schemers.org/srfi-74/
 
 fairly complete list
 http://community.schemewiki.org/?scheme-faq-standards#implementations

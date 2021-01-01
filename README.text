@@ -272,6 +272,8 @@ http://deptinfo.unice.fr/~roy/PCPS/index.html
 
 http://www.ccs.neu.edu/home/dorai/t-y-scheme/t-y-scheme.html
 
+http://www.htdp.org/
+
 --------------------------------------------------------------------------------
     Implementations
 --------------------------------------------------------------------------------
@@ -346,8 +348,6 @@ http://community.schemewiki.org/?scheme-faq-standards#libraries
 
 Functional Programming FAQ
 http://www.cs.nott.ac.uk/Department/Staff/gmh/faq.html
-
-http://www.htdp.org/
 
 Wiki
 http://community.schemewiki.org/?scheme-faq

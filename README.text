@@ -33,11 +33,18 @@ http://www.r6rs.org/r6rs-editors/
 http://www.r6rs.org/process.html
 
 --------------------------------------------------------------------------------
-    Events
+    Blog
 --------------------------------------------------------------------------------
 
-the Collège de France
-http://www.youtube.com/watch?v=i7bc6yiJQ0I
+Planet Scheme
+http://www.scheme.dk/planet/
+
+blogs
+http://www.scheme.dk/planet/
+
+--------------------------------------------------------------------------------
+    Events | Scheme Workshop
+--------------------------------------------------------------------------------
 
 2014
 http://homes.soic.indiana.edu/jhemann/scheme-14/
@@ -111,37 +118,25 @@ http://kaolin.unice.fr/Scheme2001/
 Scheme and Functional Programming
 http://www.cs.rice.edu/~matthias/Scheme2000/
 
+--------------------------------------------------------------------------------
+    Events | Other Conferences and Talks
+--------------------------------------------------------------------------------
+
 Principles, Logics, and Implementations of High-Level Programming Languages
 http://www.cs.yorku.ca/pli-00/
 
 International Conference on Functional Programming
 http://www.cs.rice.edu/Conferences/ICFP98/
 
---------------------------------------------------------------------------------
+the Collège de France
+http://www.youtube.com/watch?v=i7bc6yiJQ0I
 
-Planet Scheme
-http://www.scheme.dk/planet/
+--------------------------------------------------------------------------------
+    Events | User Groups
+--------------------------------------------------------------------------------
 
 Meetup site
 http://scheme.meetup.com/
-
-FAQ
-http://community.schemewiki.org/?scheme-faq
-
-blogs
-http://www.scheme.dk/planet/
-
-implementations
-http://community.schemewiki.org/?scheme-faq-standards#implementations
-
-libraries
-http://community.schemewiki.org/?scheme-faq-standards#libraries
-
-Reqests for Implementation
-http://srfi.schemers.org/
-
-SRFI
-https://srfi.schemers.org/srfi.svg
 
 ABQ Lisp/Scheme
 http://www.hpc.unm.edu/~download/abqlispscheme/
@@ -169,6 +164,23 @@ http://metalab.at/wiki/Lambdaheads
 
 FringeDC
 http://www.lisperati.com/fringedc.html
+
+--------------------------------------------------------------------------------
+
+FAQ
+http://community.schemewiki.org/?scheme-faq
+
+implementations
+http://community.schemewiki.org/?scheme-faq-standards#implementations
+
+libraries
+http://community.schemewiki.org/?scheme-faq-standards#libraries
+
+Reqests for Implementation
+http://srfi.schemers.org/
+
+SRFI
+https://srfi.schemers.org/srfi.svg
 
 www.schemers.com
 http://www.schemers.com/

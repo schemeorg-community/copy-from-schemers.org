@@ -326,6 +326,9 @@ http://community.schemewiki.org/?scheme-faq-standards#implementations
 fairly complete list
 http://community.schemewiki.org/?scheme-faq-standards#implementations
 
+EdScheme -- R4RS
+http://web.archive.org/web/19970108083652/www.schemers.com/edschem.html
+
 --------------------------------------------------------------------------------
     Libraries
 --------------------------------------------------------------------------------
@@ -337,29 +340,28 @@ http://community.schemewiki.org/?scheme-faq-standards#libraries
     Applications and Code Editors
 --------------------------------------------------------------------------------
 
-3DScheme
-http://www.schemers.com/3dscm1.html
+DrRacket (formerly DrScheme)
+https://docs.racket-lang.org/drracket/
 
-3DScheme Pro
-http://www.schemers.com/3dscm1.html
+The Bee (an Emacs extension, and the official Bigloo IDE)
+http://www-sop.inria.fr/mimosa/fp/Bigloo/bigloo-6.html
 
-EdScheme
-http://www.schemers.com/edschem.html
-
-Bee
-http://www-sop.inria.fr/mimosa/fp/Bigloo/
-
-DrScheme
-http://www.drscheme.org/
-
-fluxus
+Fluxus - livecoding in Scheme - 3D graphics, sound, and games.
 http://www.pawfal.org/fluxus/
+https://github.com/zzkt/fluxus
 
-SchemeWay
+SchemeWay - Scheme Plugins for Eclipse
 http://schemeway.sourceforge.net/
 
-Pilo Visual Tools for Scheme
+Pilo Visual Tools for Scheme -- Visualize lists, pointers and function calls in your code. PVTS is a visual interpreter for Scheme.
 http://www.davidpilo.com/pvts/
+
+WinScheme (the EdScheme editor)
+http://web.archive.org/web/19970108083706/http://schemers.com/winschem.html
+
+3DScheme for Windows
+http://web.archive.org/web/19970108083644/https://www.schemers.com/3dscm1.html
+3DScheme is a Scheme interpreter with a built-in, industrial-strength solid modeler based on the ACIS® Geometric Modeling Kernel.
 
 --------------------------------------------------------------------------------
     Repositories

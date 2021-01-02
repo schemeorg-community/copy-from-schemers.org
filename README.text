@@ -138,44 +138,45 @@ the Collège de France
 http://www.youtube.com/watch?v=i7bc6yiJQ0I
 
 --------------------------------------------------------------------------------
-    Events | User Groups
+    Events | User Groups | Active
 --------------------------------------------------------------------------------
 
-Meetup site
+Functional Jobs
+https://functionaljobs.com/
+
+Lisp Meetings Calendar
+http://planet.lisp.org/meetings/
+
+Meetup.com: Lisp & Scheme
 http://scheme.meetup.com/
 
-ABQ Lisp/Scheme
-http://www.hpc.unm.edu/~download/abqlispscheme/
+Lisp User Group in Boston, MA, USA (boston-lisp)
+https://mailman.common-lisp.net/listinfo/boston-lisp
 
-Bay Area Lisp &amp; Scheme
+Bay Area Lisp & Scheme Users Group
 http://balisp.org/
-
-videos
 http://balisp.org/videos
 
-Boston Lisp Announce
-http://www.neilvandyke.org/boston-lisp-announce/
+--------------------------------------------------------------------------------
+    Events | User Groups | Inactive
+--------------------------------------------------------------------------------
 
-Scheme UK
-http://schematics.sourceforge.net/scheme-uk/
-
-munich-lisp
+Lisp User Group in Munich, Germany (munich-lisp) (last event in 2017)
 http://community.schemewiki.org/?munich-lisp
 
-CRACL
-http://cracl.wordpress.com/
+Lambdaheads - Vienna, Austria (last updated in 2017)
+Lisp and functional programming languages
+https://metalab.at/wiki/Lambdaheads
 
-Lambdaheads
-http://metalab.at/wiki/Lambdaheads
+ABQ Lisp/Scheme (last updated in 2012)
+http://www.hpc.unm.edu/~download/abqlispscheme/
 
-FringeDC
-http://www.lisperati.com/fringedc.html
+FringeDC (last updated in 2009)
+Lisp and functional and dynamic programming languages
+https://www.lisperati.com/fringedc.html
 
-Helsinki University of Technology
-http://www.niksula.cs.hut.fi/~candolin/scheme/
-
-Functional Jobs
-http://functionaljobs.com/
+Scheme UK (last updated in 2008)
+http://schematics.sourceforge.net/scheme-uk/
 
 --------------------------------------------------------------------------------
     Research

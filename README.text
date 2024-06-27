@@ -1,3 +1,13 @@
+The snapshot at https://conservatory.scheme.org/schemers/ is sourced
+from the repo https://gitea.scheme.org/conservatory/schemers-website.
+You probably want to look there.
+
+This repo was created very early on to track how much content we have
+left to copy from schemers.org to scheme.org. The aim is that
+scheme.org covers everything that was on schemers.org and more. Now
+that we host a permanent snapshot of the old schemers.org with
+Shriram's blessing, the goal is less urgent.
+
 --------------------------------------------------------------------------------
     FAQ
 --------------------------------------------------------------------------------
